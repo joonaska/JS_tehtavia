@@ -1,0 +1,94 @@
+Deadline 16.9 tehtäville 1-9.
+
+Tehtävä 1 --------------------------------------------------------------------------------------------------------------------------
+
+Tutustu opintojakson suorittamiseen liittyviin seikkoihin ja kirjoita omin sanoin mitä sinun pitää tehdä jotta saat opintojaksosta arvosanan.
+
+Mitä minun täytyy tehdä:
+1. Opiskella koulussa sekä kotona ahkerasti.
+2. Suorittaa annetut tehtävät onnistuneesti, ehkä vielä pienellä  lisätwistillä.
+3. Lukea/opiskella ja suorittaa teoriatentit hyväksytysti, sekä ymmärtää itsekkin.
+4. Lopputentti täytyy suorittaa hyväksytysti. Tavoitteet korkealle.
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+Tehtävä 2 --------------------------------------------------------------------------------------------------------------------------
+
+Lue Eloquent JavaScript -kirjasta luku Introduction kohtaan "Overview of this book" saakka.
+Kirjaa lyhyesti esim. ranskalaisilla viivoilla pääpointit.
+
+- 
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+Tehtävä 3 --------------------------------------------------------------------------------------------------------------------------
+
+Laadi lausekielinen algoritmi nokipannukahvin tai kahvinkeittimellä valmistetun kahvin keittämiseksi.
+Pyri sellaiseen tarkkuuteen, että ensikertalainenkin osaisi keittää kahvit algoritmin perusteella.
+
+Kahvin keitto kahvinkeittimellä.
+
+1. Mene kahvinkeittimen luokse.
+2. Avaa vesisäiliön kansi.
+3. Hae vettä hanasta.
+4. Lisää vesi vesisäiliöön.
+5. Sulje vesisäiliön kansi.
+6. irrota suodatinpussin telinehärpäke.
+7. Ota kaapista suodatinpussi.
+8. Aseta suodatinpussi härpäkkeeseen.
+9. Laita suodatinpussipaketti takaisin kaappiin.
+10. Ota kahvipaketti kaapista.
+11. Avaa kahvipaketti
+12. Laita suodatinpussiin oikea määrä kahvinpurua.
+13. Sulje kahvipaketti.
+14. Laita kahvipaketti takaisin kaappiin.
+15. Aseta suodatinpussihärpäke takaisin kahvinkeittimeen.
+16. Kytke kahvinkeitin päälle virtanapista.
+17. Odota kunnes kaikki vesi on tippunut suodattimen kautta kahvipannuun.
+18. Kahvi on valmista juotavaksi.
+19. Kytke kahvinkeitin pois päältä virtanapista.
+
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+
+Tehtävä 4 --------------------------------------------------------------------------------------------------------------------------
+
+A-vaihtoehto Laadi lausekielinen algoritmi auton renkaiden vaihtamiseksi. 
+
+1. Aja auto tasaiselle alustalle.
+2. Kytke käsijarru
+3. Hae tunkki ja työkalut sekä vararenkaat auton viereen.
+4. Avaa hiukan rengasavaimella renkaiden pultteja.
+5. Aseta tunkki auton alle, kohdistetulle paikalle. vaihdettavan renkaan viereen.
+6. Tunkkaa auto ilmaan.
+7. Avaa rengasavaimella vaihdettavan renkaan pultit kokonaan.
+8. Laita pultit talteen
+9. Ota vaihdettava rengas irti sekä vaihda uusi tilalle.
+10. Kiinnitä pultit rengasavaimella 
+11. Laske auto takaisin maahan.
+12. Toista kohdat 5-11, muidenkin vaihdettavien renkaiden kohdalla.
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+Tehtävä 5 --------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+Tehtävä 6 --------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------
